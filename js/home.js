@@ -97,7 +97,7 @@ function pesquisarPecas() {
                         href="perfil.html?id=${peca.vendedorId}"
                         class="btn btn-primary">
 
-                        Ver vendedor
+                        Visualizar Vendedor
                     </a>
 
                 </div>

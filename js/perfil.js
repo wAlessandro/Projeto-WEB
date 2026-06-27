@@ -222,13 +222,6 @@ pecasVendedor.forEach(peca => {
                     R$ ${peca.preco}
                 </p>
 
-                <a
-                    href="editar-peca.html?id=${peca.id}"
-                    class="btn btn-primary">
-
-                    Ver Anúncio
-                </a>
-
             </div>
 
         </div>
