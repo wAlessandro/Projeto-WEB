@@ -1,0 +1,26 @@
+body{
+    min-height: 100vh;
+}
+
+.card{
+    border-radius: 12px;
+    border: none;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.img-card{
+    height: 200px;
+    object-fit: cover;
+}
+
+.banner{
+    height: 350px;
+    object-fit: cover;
+}
+
+textarea{
+    resize: none;
+}
